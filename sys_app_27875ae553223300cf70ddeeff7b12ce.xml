@@ -21,13 +21,13 @@
         <store_correlation_id/>
         <store_url/>
         <sys_class_name>sys_app</sys_class_name>
-        <sys_code/>
+        <sys_code>sn_testconfig</sys_code>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2019-07-10 00:17:19</sys_created_on>
         <sys_id>27875ae553223300cf70ddeeff7b12ce</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-07-10 00:17:19</sys_updated_on>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_updated_by>anjana</sys_updated_by>
+        <sys_updated_on>2019-07-10 00:21:01</sys_updated_on>
         <template/>
         <trackable>true</trackable>
         <user_role/>
